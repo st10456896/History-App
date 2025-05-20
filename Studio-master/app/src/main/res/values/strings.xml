@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlashCards</string>
+    <string name="Start">Start</string>
+    <string name="Welcome">Welcome To FlashLearn</string>
+    <string name="Description">Boost your learning, track progress, and test your knowledge with fun, interactive flashcards.</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="Home">Home</string>
+    <string name="Next">Next</string>
+    <string name="Exit">Exit</string>
+    <string name="Review">Review</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Score">Score</string>
+    <string name="Feedback1">Feedback</string>
+    <string name="your_score">Your Score: %1$d</string>
+    <string name="ReviewFeed">Review Questions</string>
+</resources>
